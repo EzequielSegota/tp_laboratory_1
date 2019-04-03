@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1523116033 source:c:\users\ezequiel\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523555994 .h"
+
+1523114301 c:\users\ezequiel\desktop\tp_1_cascara\funciones.h
+
+1523114301 source:c:\users\ezequiel\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554316635 source:c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554316635 c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\funciones.h
+
+1554316635 source:c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523556011 source:c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\tp_laboratorio_1-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523555988 c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\tp_laboratorio_1-master\tp_1_cascara\funciones.h
+
+1523555994 source:c:\users\ezequiel\desktop\tp_laboratorio_1-master\tp_1_cascara\tp_laboratorio_1-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535986560 source:/home/alumno/Escritorio/tp_laboratorio_1-master/TP_1_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1535986559 /home/alumno/Escritorio/tp_laboratorio_1-master/TP_1_Cascara/funciones.h
+
+1535986559 source:/home/alumno/Escritorio/tp_laboratorio_1-master/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536149822 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1536149302 c:\users\alumno\desktop\tp_laboratorio_1-master\tp_1_cascara\funciones.h
+
+1536149435 source:c:\users\alumno\desktop\tp_laboratorio_1-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
